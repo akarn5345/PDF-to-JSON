@@ -18,27 +18,33 @@ def extract_questions(pdf_path):
             if page_text:
                 text += page_text + "\n"
 
-    # Regex pattern to capture question, options (adjust if needed)
+    # Regex pattern to capture question, options, and chosen option (correct answer)
     pattern = re.compile(
-        r"Q\.(\d+)\s(.*?)\nAns\s1\.(.*?)\n2\.(.*?)\n3\.(.*?)\n4\.(.*?)(?=\nQ\.|\Z)",
+        r"Q\.(\d+)\s(.*?)\nAns\s1\.(.*?)\n2\.(.*?)\n3\.(.*?)\n4\.(.*?)(?:\n.*?Status\s*:\s*Answered\nChosen Option\s*:\s*(\d))?",
         re.S
     )
 
     matches = pattern.findall(text)
 
     for match in matches:
-        qnum, question, opt1, opt2, opt3, opt4 = match
+        qnum, question, opt1, opt2, opt3, opt4, chosen_option = match
         options = {
             "1": clean_option_text(opt1),
             "2": clean_option_text(opt2),
             "3": clean_option_text(opt3),
             "4": clean_option_text(opt4),
         }
-        questions.append({
+        question_obj = {
             "question_number": int(qnum),
             "question": question.strip(),
-            "options": options
-        })
+            "options": options,
+        }
+        if chosen_option:
+            question_obj["correct_option"] = chosen_option
+        else:
+            question_obj["correct_option"] = None  # or omit this line if preferred
+        questions.append(question_obj)
+
     return questions
 
 if __name__ == "__main__":
