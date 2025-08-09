@@ -1,0 +1,39 @@
+name: Extract PDF to JSON
+
+on:
+  push:
+    paths:
+      - 'ssc-cgl-tier-1-paper-2024-sep-09*.pdf'  # Run when PDFs with this pattern are pushed
+
+jobs:
+  extract-json:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pdfplumber
+
+      - name: Run extraction script
+        run: |
+          python backend/extract_questions.py
+
+      - name: Commit and push JSON
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add backend/questions.json
+          git commit -m "Auto-generated questions.json from PDF"
+          git push
+        env:
+          # Required for git push to work in Actions
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
