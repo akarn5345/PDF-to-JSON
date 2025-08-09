@@ -1,9 +1,10 @@
 name: Extract PDF to JSON
 
 on:
+  workflow_dispatch:   # Allows manual trigger from GitHub UI
   push:
     paths:
-      - 'ssc-cgl-tier-1-paper-2024-sep-09*.pdf'  # Run when PDFs with this pattern are pushed
+      - 'ssc-cgl-tier-1-paper-2024-sep-09*.pdf'  # Trigger on PDF pushes
 
 jobs:
   extract-json:
@@ -35,5 +36,4 @@ jobs:
           git commit -m "Auto-generated questions.json from PDF"
           git push
         env:
-          # Required for git push to work in Actions
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
