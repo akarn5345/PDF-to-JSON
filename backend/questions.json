@@ -1,0 +1,932 @@
+[
+    {
+        "question_number": 1,
+        "question": "What will come in place of the question mark (?) in the following equation, if \u2018+\u2019 and \u2018\u2013\u2019\nare interchanged and \u2018\u00d7\u2019 and \u2018\u00f7\u2019 are interchanged?\n4515 \u00d7 5 \u2013 431 \u00f7 3 + 821 = ?",
+        "options": {
+            "1": "1335",
+            "2": "1775",
+            "3": "1575",
+            "4": "1375"
+        }
+    },
+    {
+        "question_number": 2,
+        "question": "31 is related to 152 by certain logic. Following the same logic, 47 is related to 168. To\nwhich of the following is 66 related, following the same logic? (NOTE : Operations\nshould be performed on the whole numbers, without breaking down the numbers into\nits constituent digits. E.g. 13 \u2013 Operations on 13 such as adding /deleting /multiplying\netc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing\nmathematical operations on 1 and 3 is not allowed.)",
+        "options": {
+            "1": "180",
+            "2": "187",
+            "3": "185",
+            "4": "190"
+        }
+    },
+    {
+        "question_number": 3,
+        "question": "Six letters Q, Z, V, T, L and A are written on different faces of a dice. Two positions of\nthis dice are shown in the figures below. Find the letter on the face opposite to Q.",
+        "options": {
+            "1": "Z",
+            "2": "T",
+            "3": "V",
+            "4": "A"
+        }
+    },
+    {
+        "question_number": 4,
+        "question": "In the following number-pairs, the second number is obtained by applying certain\nmathematical operations to the first number. In three of the four pairs, the same\npattern is applied and hence they form a group. Select the number-pair that DOES NOT\nbelong to this group.\n(NOTE: Operations should be performed on the whole numbers, without breaking\ndown the numbers into their constituent digits. E.g. 13 \u2013 Operations on 13 such as\nadding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3\nand then performing mathematical operations on 1 and 3 is not allowed.)",
+        "options": {
+            "1": "335 - 119",
+            "2": "358 - 152",
+            "3": "317 - 101",
+            "4": "308 - 92"
+        }
+    },
+    {
+        "question_number": 5,
+        "question": "In a certain code language, 'NAME\u2019 is written as 'FNBO' and 'NANO' is written as\n'POBO\u2019. How will 'NAIL\u2019 be written in that language?",
+        "options": {
+            "1": "MOBJ",
+            "2": "MJOB",
+            "3": "MOJB",
+            "4": "MJBO"
+        }
+    },
+    {
+        "question_number": 6,
+        "question": "The question contains pairs of words that are related to each other in a certain way.\nThree of the following four word pairs are alike as these have the same relationship\nand thus form a group. Which word pair is the one that DOES NOT belong to that\ngroup?\n(The words must be considered as meaningful English words and must not be related\nto each other based on the number of letters/number of consonants/vowels in the\nword.)",
+        "options": {
+            "1": "Pentagon - 5 sides",
+            "2": "Hexagon - 8 sides",
+            "3": "Triangle - 3 sides",
+            "4": "Square - 4 sides"
+        }
+    },
+    {
+        "question_number": 7,
+        "question": "The position of how many letters will remain unchanged if each of the letters in the\nword \u2018NIGHTMARES\u2019 is re-arranged in the English alphabetical order from left to right?",
+        "options": {
+            "1": "One",
+            "2": "Four",
+            "3": "Two",
+            "4": "Three"
+        }
+    },
+    {
+        "question_number": 8,
+        "question": "What will come in the place of \u2018?\u2019 in the following equation, if \u2018+\u2019 and \u2018\u2013\u2018 are\ninterchanged and \u2018\u00d7\u2019 and \u2018\u00f7\u2019 are interchanged?\n5 \u2013 4 \u00f7 9 + 80 \u00d7 10 = ?",
+        "options": {
+            "1": "31",
+            "2": "33",
+            "3": "35",
+            "4": "30"
+        }
+    },
+    {
+        "question_number": 9,
+        "question": "Select the option in which the numbers share the same relationship as that shared by\nthe given pair of numbers.\n(149, 213)\n(168, 232)\n(NOTE: Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 \u2013 Operations on 13 such as\nadding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3\nand then performing mathematical operations on 1 and 3 is not allowed.)",
+        "options": {
+            "1": "(162, 222)",
+            "2": "(153, 217)",
+            "3": "(137, 211)",
+            "4": "(144, 198)"
+        }
+    },
+    {
+        "question_number": 10,
+        "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as\nshown below.",
+        "options": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        }
+    },
+    {
+        "question_number": 11,
+        "question": "Select the option that is related to the fifth letter-cluster in the same way as the second\nletter-cluster is related to the first letter-cluster and the fourth letter-cluster is related\nto the third letter-cluster.\nMEK: NVP :: GYT: TBG :: JWH:?",
+        "options": {
+            "1": "QDS",
+            "2": "PCR",
+            "3": "QDT",
+            "4": "PCS"
+        }
+    },
+    {
+        "question_number": 12,
+        "question": "Three statements are given followed by three conclusions numbered I, II and III.\nAssuming the statements to be true, even if they seem to be at variance with\ncommonly known facts, decide which of the conclusions logically follow(s) from the\nstatements.\nStatements:\nNo card is a parcel.\nAll cards are envelopes.\nSome envelopes are bags.\nConclusions:\nI. All envelopes can never be parcels.\nII. No card is a bag.\nIII. At least some bags are postcards.",
+        "options": {
+            "1": "Only I follows",
+            "2": "Only II follows",
+            "3": "Only I and III follow",
+            "4": "Only II and III follow"
+        }
+    },
+    {
+        "question_number": 13,
+        "question": "Select the correct mirror image of the given figure when the mirror is placed at MN as\nshown.",
+        "options": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        }
+    },
+    {
+        "question_number": 14,
+        "question": "Identify the option figure that when put in place of the question mark (?) will logically\ncomplete the series.",
+        "options": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        }
+    },
+    {
+        "question_number": 15,
+        "question": "Which of the four options will replace the question mark (?) in the following series?\nUE 88, VG 84, WI 80, XK76, ?",
+        "options": {
+            "1": "ZM72",
+            "2": "ZN71",
+            "3": "YN73",
+            "4": "YM72"
+        }
+    },
+    {
+        "question_number": 16,
+        "question": "Select the option that represents the letters that when placed from left to right in the\nblanks below will complete the letter series.\nL_P_QS_K_P_S_KP_Q_L_ _PQS",
+        "options": {
+            "1": "KPLPLQLSPK",
+            "2": "PKLPQPLSKP",
+            "3": "KPLPQQLPSK",
+            "4": "KPLPQLPSKP"
+        }
+    },
+    {
+        "question_number": 17,
+        "question": "Identify the figure from the given options, which when put in place of the question\nmark (?), will logically complete the series.",
+        "options": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        }
+    },
+    {
+        "question_number": 18,
+        "question": "Six numbers 21, 22, 23, 24, 25 and 26 are written on different faces of a dice. Three\npositions of this dice are shown in the figure. Find the number on the face opposite to\n24.",
+        "options": {
+            "1": "26",
+            "2": "25",
+            "3": "22",
+            "4": "21"
+        }
+    },
+    {
+        "question_number": 19,
+        "question": "How many triangles are there in the given figure?",
+        "options": {
+            "1": "21",
+            "2": "20",
+            "3": "18",
+            "4": "19"
+        }
+    },
+    {
+        "question_number": 20,
+        "question": "In a certain code language, \u2018what where how\u2019 is written as \u2018aa dd ff\u2019; \u2018where there that\u2019\nis written as \u2018dd zz pp\u2019 and \u2018which what here\u2019 is written as \u2018ff kk ll\u2019. How is \u2018how\u2019 written\nin that language?",
+        "options": {
+            "1": "aa",
+            "2": "kk",
+            "3": "zz",
+            "4": "ff"
+        }
+    },
+    {
+        "question_number": 21,
+        "question": "Three statements are given followed by three conclusions numbered I, II and III.\nAssuming the statements to be true, even if they seem to be at variance with\ncommonly known facts, decide which of the conclusions logically follow(s) from the\nstatements.\nStatements:\nSome tears are drops.\nSome drops are streams.\nAll streams are rivers.\nConclusions:\nI. All tears can never be rivers.\nII. Some drops are rivers.\nIII. All tears being streams is a possibility.",
+        "options": {
+            "1": "Only conclusion I follows",
+            "2": "Both II and III conclusion follow",
+            "3": "Only conclusion III follows",
+            "4": "Both I and II conclusion follow"
+        }
+    },
+    {
+        "question_number": 22,
+        "question": "Which of the following terms will replace the question mark (?) in the given series?\nYZUW, ?, QTQU, MQOT, INMS",
+        "options": {
+            "1": "UWSV",
+            "2": "UWVS",
+            "3": "USWV",
+            "4": "WUSV"
+        }
+    },
+    {
+        "question_number": 23,
+        "question": "In a certain code language,\n\u2018A + B\u2019 means \u2018A is the mother of B\u2019,\n\u2018A \u2013 B\u2019 means \u2018A is the father of B\u2019,\n\u2018A $ B\u2019 means \u2018A is the son of B\u2019,\n\u2018A % B\u2019 means \u2018A is the sister of B\u2019,\n\u2018A / B\u2019 means \u2018A is the wife of B\u2019 and\n\u2018A = B\u2019 means \u2018A is the brother of B\u2019.\nWhich of the following means A is the daughter of K?\ni. A + K / J \u2013 P = D\nii. J % P = K + A = D\niii. K + A / P \u2013 D % J\niv. D + K = A / P \u2013 J",
+        "options": {
+            "1": "i",
+            "2": "iii",
+            "3": "ii",
+            "4": "iv"
+        }
+    },
+    {
+        "question_number": 24,
+        "question": "19 is related to 209 following a certain logic. Following the same logic, 27 is related to\n297. To which of the following is 61 related, following the same logic?\n(NOTE: Operations should be performed on the whole numbers, without breaking\ndown the numbers into its constituent digits. E.g. 13 \u2013 Operations on 13 such as\nadding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and\n3 and then performing mathematical operations on 1 and 3 is not allowed)",
+        "options": {
+            "1": "653",
+            "2": "600",
+            "3": "571",
+            "4": "671"
+        }
+    },
+    {
+        "question_number": 25,
+        "question": "Which of the following numbers will replace the question mark (?) in the given series?\n1, 3, 10, 41, ?, 1237",
+        "options": {
+            "1": "202",
+            "2": "210",
+            "3": "200",
+            "4": "206"
+        }
+    },
+    {
+        "question_number": 1,
+        "question": "In which year was Project Tiger launched in India?",
+        "options": {
+            "1": "1973",
+            "2": "1970",
+            "3": "1972",
+            "4": "1985"
+        }
+    },
+    {
+        "question_number": 2,
+        "question": "Lathmar Holi is primarily celebrated in the state of:",
+        "options": {
+            "1": "Karnataka",
+            "2": "Himachal Pradesh",
+            "3": "Arunachal Pradesh",
+            "4": "Uttar Pradesh"
+        }
+    },
+    {
+        "question_number": 3,
+        "question": "Which of the following awards was won by Lata Mangeshkar in the year 2001?",
+        "options": {
+            "1": "Dadasaheb Phalke Award",
+            "2": "Padma Vibhushan",
+            "3": "Bharat Ratna",
+            "4": "Filmfare Lifetime Achievement Award"
+        }
+    },
+    {
+        "question_number": 4,
+        "question": "Details about Sudarshana lake is given in a rock inscription at Girnar (Junagarh),\nwhich was composed to record the achievements of the Shaka ruler _________.",
+        "options": {
+            "1": "Chashtana",
+            "2": "Rudradaman I",
+            "3": "Rudrasimha III",
+            "4": "Maues"
+        }
+    },
+    {
+        "question_number": 5,
+        "question": "___________ is an industry association and self-regulatory organisation (SRO) whose\nprimary objective is to work towards the robust development of the microfinance\nsector.",
+        "options": {
+            "1": "NABARD",
+            "2": "Self-help Group Association",
+            "3": "Microfinance and Investments Regulatory Authority",
+            "4": "Microfinance Institutions Network"
+        }
+    },
+    {
+        "question_number": 6,
+        "question": "Which article has a similar provision to that of Article 32 and deals with writ\njurisdiction?",
+        "options": {
+            "1": "Article 228",
+            "2": "Article 227",
+            "3": "Article 226",
+            "4": "Article 225"
+        }
+    },
+    {
+        "question_number": 7,
+        "question": "Which of the following is NOT a condition for the President\u2019s office in India?",
+        "options": {
+            "1": "He shall not hold any office of profit.",
+            "2": "The allowances shall not be diminished during his term of office.",
+            "3": "He shall not be entitled, without payment of rent, to use his official residence.",
+            "4": "He shall not be a member of either House of the Parliament."
+        }
+    },
+    {
+        "question_number": 8,
+        "question": "Which of the following statements best defines the monoecious?",
+        "options": {
+            "1": "A flower with gynoecium only",
+            "2": "A flower with androecium only",
+            "3": "A flower with both androecium and gynoecium",
+            "4": "A flower with dithecous"
+        }
+    },
+    {
+        "question_number": 9,
+        "question": "Mohan Veena player, Pandit Vishwa Mohan Bhatt won the ____________ Award in the\nyear 1994.",
+        "options": {
+            "1": "Grammy",
+            "2": "Sangita Kalanidhi",
+            "3": "Oscar",
+            "4": "Sangeet Natak Akademi"
+        }
+    },
+    {
+        "question_number": 10,
+        "question": "Who is Union Minister of State (Independent Charge) for Science and Technology as of\nJuly 2023?",
+        "options": {
+            "1": "Dharmendra Pradhan",
+            "2": "Jitendra Singh",
+            "3": "Ashwini Vaishnaw",
+            "4": "Ramesh Pokhriyal"
+        }
+    },
+    {
+        "question_number": 11,
+        "question": "Which of the following decomposition reactions is NOT a redox reaction?",
+        "options": {
+            "1": "Decomposition of sodium hydride",
+            "2": "Decomposition of calcium carbonate",
+            "3": "Decomposition of potassium chlorate",
+            "4": "Decomposition of dihydrogen monoxide"
+        }
+    },
+    {
+        "question_number": 12,
+        "question": "Who among the following has authored the play \u2018Nil Darpan\u2019?",
+        "options": {
+            "1": "Chittaranjan Das",
+            "2": "Motilal Nehru",
+            "3": "Dinabandhu Mitra",
+            "4": "Sarojini Naidu"
+        }
+    },
+    {
+        "question_number": 13,
+        "question": "Who among the following formed the Bihar Provincial Kisan Sabha in 1929?",
+        "options": {
+            "1": "Jayprakash Narayan",
+            "2": "JM Sengupta",
+            "3": "Kunwar Singh",
+            "4": "Swami Sahajanand Saraswati"
+        }
+    },
+    {
+        "question_number": 14,
+        "question": "Which plateaus are very fertile because they are rich in black soil that is very good for\nfarming?",
+        "options": {
+            "1": "Deccan lava plateau",
+            "2": "African plateau",
+            "3": "Ethiopian plateau",
+            "4": "Katanga plateau"
+        }
+    },
+    {
+        "question_number": 15,
+        "question": "Which of the following is a correct order of basicity?",
+        "options": {
+            "1": "LiOH>NaOH>KOH>CsOH",
+            "2": "KOH>CsOH>NaOH>LiOH",
+            "3": "LiOH>KOH>CsOH>NaOH",
+            "4": "CsOH>KOH>NaOH>LiOH"
+        }
+    },
+    {
+        "question_number": 16,
+        "question": "Which of the following pairs is INCORRECT regarding the grade of organisation and\nits example?",
+        "options": {
+            "1": "Cell-tissue grade organisation - Jellyfish",
+            "2": "Cellular grade organisation - Sycon",
+            "3": "Protoplasmic grade organisation - Paramecium",
+            "4": "Tissue-organ grade organisation - Euplectella"
+        }
+    },
+    {
+        "question_number": 17,
+        "question": "The head office of Board of Control for Cricket in India (BCCI) is located in ________.",
+        "options": {
+            "1": "Kolkata",
+            "2": "Chennai",
+            "3": "Mumbai",
+            "4": "New Delhi"
+        }
+    },
+    {
+        "question_number": 18,
+        "question": "When the analysis of population density is done by calculating it through net\ncultivated area, then the measure is termed as:",
+        "options": {
+            "1": "Net density",
+            "2": "Gross density",
+            "3": "Agricultural density",
+            "4": "Physiological density"
+        }
+    },
+    {
+        "question_number": 19,
+        "question": "Mahendravarman I was the ruler of which of the following dynasties?",
+        "options": {
+            "1": "Pallava",
+            "2": "Pandya",
+            "3": "Chalukya",
+            "4": "Chola"
+        }
+    },
+    {
+        "question_number": 20,
+        "question": "What challenge does foreign investment often face in India?",
+        "options": {
+            "1": "Excessive foreign competition",
+            "2": "Lack of skilled labour",
+            "3": "Lack of consumer base",
+            "4": "Inconsistent regulatory environment"
+        }
+    },
+    {
+        "question_number": 21,
+        "question": "Which of the following states is the biggest producer of Pulses?",
+        "options": {
+            "1": "Bihar",
+            "2": "Madhya Pradesh",
+            "3": "Punjab",
+            "4": "Haryana"
+        }
+    },
+    {
+        "question_number": 22,
+        "question": "Who founded the Prarthana Samaj in Mumbai in 1867?",
+        "options": {
+            "1": "Gopal Krishna Gokhale",
+            "2": "Shri Ram Bajpai",
+            "3": "Atmaram Pandurang",
+            "4": "Ram Mohan Roy"
+        }
+    },
+    {
+        "question_number": 23,
+        "question": "Who is the Chief Minister of Tamil Nadu as of July 2023?",
+        "options": {
+            "1": "KN Nehru",
+            "2": "Pinarayi Vijayan",
+            "3": "M Yedurappa",
+            "4": "MK Stalin"
+        }
+    },
+    {
+        "question_number": 24,
+        "question": "In which city was the first golf club of India situated?",
+        "options": {
+            "1": "Kolkata",
+            "2": "Mysore",
+            "3": "Shimla",
+            "4": "Gulmarg"
+        }
+    },
+    {
+        "question_number": 25,
+        "question": "Which Indian among the following has his name in Time Magazine\u2019s list of \u2018100 most\ninfluential people of 2021\u2019?",
+        "options": {
+            "1": "Amit Shah",
+            "2": "Narendra Modi",
+            "3": "Neeraj Chopra",
+            "4": "Virat Kohli"
+        }
+    },
+    {
+        "question_number": 1,
+        "question": "A grocer professes to sell rice at the cost price, but uses a fake weight of 870 g for 1\nkg. Find his profit percentage (correct to two decimal places).",
+        "options": {
+            "1": "11.11%",
+            "2": "14.94%",
+            "3": "15.11%",
+            "4": "18.21%"
+        }
+    },
+    {
+        "question_number": 2,
+        "question": "The value of is:",
+        "options": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        }
+    },
+    {
+        "question_number": 3,
+        "question": "In a circular race of 840 m, A and B start running in the same direction at the same\ntime from the same point at the speeds of 6 m/s and 12 m/s, respectively. After how\nmuch time will they meet next?",
+        "options": {
+            "1": "140 s",
+            "2": "40 s",
+            "3": "70 s",
+            "4": "20 s"
+        }
+    },
+    {
+        "question_number": 4,
+        "question": "Let O be the centre of the circle and AB and CD are two parallel chords on the same\nside of the radius. OP is perpendicular to AB and OQ is perpendicular to CD. If AB = 10\ncm, CD = 24 cm and PQ = 7 cm, then the diameter (in cm) of the circle is equal to:",
+        "options": {
+            "1": "24",
+            "2": "13",
+            "3": "12",
+            "4": "26"
+        }
+    },
+    {
+        "question_number": 5,
+        "question": "Which of the following statements is sufficient to conclude that two triangles are\ncongruent?",
+        "options": {
+            "1": "One side and one angle of both triangles are equal.",
+            "2": "These have two equal sides and the same perimeter.",
+            "3": "These have the same area and the same base.",
+            "4": "These have the same base and the same height."
+        }
+    },
+    {
+        "question_number": 6,
+        "question": "Ans 1. 2\n2. 3\n3. 1\n4. 0\nQuestion ID :630680523820\nOption 1 ID :6306802047433\nOption 2 ID :6306802047432\nOption 3 ID :6306802047434\nOption 4 ID :6306802047431\nStatus :Answered\nChosen Option :3\nQ.7 Fill pipe P is 21 times faster than fill pipe Q. If Q can\nfill a cistern in 110 minutes, find the time it takes to\nfill the cistern when both fill pipes are opened\ntogether.",
+        "options": {
+            "1": "3 minutes",
+            "2": "5 minutes",
+            "3": "4 minutes",
+            "4": "6 minutes"
+        }
+    },
+    {
+        "question_number": 8,
+        "question": "Ans 1. Rohit\n2. Tarun\n3. Mohit\n4. Sumit\nQuestion ID :630680428153\nOption 1 ID :6306801670657\nOption 2 ID :6306801670658\nOption 3 ID :6306801670656\nOption 4 ID :6306801670659\nStatus :Answered\nChosen Option :2\nQ.9 R pays \u20b9100 to P with \u20b95, \u20b92 and \u20b91 coins. The total number of coins used for paying\nare 40. What is the number of coins of denomination \u20b95 in the payment?",
+        "options": {
+            "1": "13",
+            "2": "17",
+            "3": "16",
+            "4": "18"
+        }
+    },
+    {
+        "question_number": 10,
+        "question": "The radii of the two cones are in the ratio of 2 : 5 and their volumes are in the ratio of 3\n: 5. What is the ratio of their heights?",
+        "options": {
+            "1": "13 : 11",
+            "2": "4 : 11",
+            "3": "11 : 15",
+            "4": "15 : 4"
+        }
+    },
+    {
+        "question_number": 11,
+        "question": "Which of the following can be the value of \u2018k\u2019 so that the number 217924k is divisible\nby 6?",
+        "options": {
+            "1": "2",
+            "2": "6",
+            "3": "0",
+            "4": "4"
+        }
+    },
+    {
+        "question_number": 12,
+        "question": "In an election between two candidates, y% of the voters did not vote. 10% of the votes\ncast were declared invalid, while all the valid votes were cast in favour of either of the\ntwo candidates. The candidate who got 59.375% of the valid votes cast was declared\nelected by 2484 votes. If the number of people eligible to vote in that election was\n16,000, what is the value of y?",
+        "options": {
+            "1": "8",
+            "2": "8.4",
+            "3": "7.5",
+            "4": "7.2"
+        }
+    },
+    {
+        "question_number": 13,
+        "question": "An article is marked at \u20b9550. If it is sold at a discount of 40%, then the selling price\nbecomes 10% more than its cost price. What is the cost price (in \u20b9)?",
+        "options": {
+            "1": "330",
+            "2": "220",
+            "3": "300",
+            "4": "200"
+        }
+    },
+    {
+        "question_number": 14,
+        "question": "If the sum of two sides of an equilateral triangle is 16 cm, then find the third side.",
+        "options": {
+            "1": "Cannot be found",
+            "2": "16 cm",
+            "3": "4 cm",
+            "4": "8 cm"
+        }
+    },
+    {
+        "question_number": 15,
+        "question": "Ans 1.\n2.\n3.\n4.\nQuestion ID :630680413459\nOption 1 ID :6306801612660\nOption 2 ID :6306801612661\nOption 3 ID :6306801612663\nOption 4 ID :6306801612662\nStatus :Answered\nChosen Option :3\nQ.16 The following table shows the total candidates appeared and number of candidates\npresent, in different exam centres \u2013 P, Q and R.\nStudy the table and answer the question that follows.\n\u2018Total\u2019 denotes total candidates applied for the centre,\u2018Present\u2019 denotes the candidates\nappeared.\nIn which year was the number of absentees the second highest in total of all centres?",
+        "options": {
+            "1": "2018",
+            "2": "2019",
+            "3": "2020",
+            "4": "2017"
+        }
+    },
+    {
+        "question_number": 17,
+        "question": "The distance between the centres of two circles of radii 22 cm and 10 cm is 37 cm. If\nthe points of contact of a direct common tangent to these circles are M and Q, then\nfind the length of the line segment MQ.",
+        "options": {
+            "1": "39 cm",
+            "2": "29 cm",
+            "3": "35 cm",
+            "4": "25 cm"
+        }
+    },
+    {
+        "question_number": 18,
+        "question": "Ans 1. 4\n2. 0\n3. 1\n4. 2\nQuestion ID :630680526498\nOption 1 ID :6306802058061\nOption 2 ID :6306802058058\nOption 3 ID :6306802058059\nOption 4 ID :6306802058060\nStatus :Answered\nChosen Option :2\nQ.19 The average marks (out of 100) of boys and girls in an examination are 75 and 80,\nrespectively. If the average marks of all the students in that examination are 78. Find\nthe ratio of the number of boys to the number of girls.",
+        "options": {
+            "1": "1 : 3",
+            "2": "2 : 3",
+            "3": "1 : 2",
+            "4": "3 : 4"
+        }
+    },
+    {
+        "question_number": 20,
+        "question": "Ans 1. 54\n2. 60\n3. 56\n4. 20\nQuestion ID :630680524286\nOption 1 ID :6306802049296\nOption 2 ID :6306802049297\nOption 3 ID :6306802049298\nOption 4 ID :6306802049295\nStatus :Answered\nChosen Option :1\nQ.21",
+        "options": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": ""
+        }
+    },
+    {
+        "question_number": 22,
+        "question": "Ans\n1.\n2.\n3.\n4.\nQuestion ID :630680403310\nOption 1 ID :6306801572740\nOption 2 ID :6306801572738\nOption 3 ID :6306801572739\nOption 4 ID :6306801572741\nStatus :Answered\nChosen Option :2\nCICK TO DOWNLOAD : SSC CGL TIER-1 PDF NOTES\nQ.23",
+        "options": {
+            "1": "2,7",
+            "2": "4,7",
+            "3": "3,10",
+            "4": "1,10"
+        }
+    },
+    {
+        "question_number": 24,
+        "question": "Ans\n1.\n2.\n3.\n4.\nQuestion ID :630680135826\nOption 1 ID :630680526024\nOption 2 ID :630680526022\nOption 3 ID :630680526023\nOption 4 ID :630680526025\nStatus :Not Answered\nChosen Option :--\nCICK TO DOWNLOAD : SSC CGL TIER-1 PDF NOTES\nQ.25 Mohan borrows a sum of \u20b94,22,092 at the rate of 20% per annum simple interest. At the\nend of the first year, he repays \u20b921,679 towards return of principal amount borrowed. If\nMohan clears all pending dues at the end of the second year, including interest\npayment that accrued during the first year, how much does he pay (in \u20b9) at the end of\nthe second year?",
+        "options": {
+            "1": "561347",
+            "2": "564914",
+            "3": "558380",
+            "4": "556367"
+        }
+    },
+    {
+        "question_number": 1,
+        "question": "Select the most appropriate synonym of the given word.\nFatal",
+        "options": {
+            "1": "Additional",
+            "2": "Easy",
+            "3": "Deadly",
+            "4": "Jovial"
+        }
+    },
+    {
+        "question_number": 2,
+        "question": "Select the option that expresses the given sentence in active voice.\nLovely tunes are composed by Domnica.",
+        "options": {
+            "1": "Domnica composes tunes lovely.",
+            "2": "Domnica will compose lovely tunes.",
+            "3": "Domnica composes lovely tunes.",
+            "4": "Domnica composed lovely tunes."
+        }
+    },
+    {
+        "question_number": 3,
+        "question": "Select the option that expresses the opposite meaning of the underlined word.\nThe explosive used is of my own formulation, and I can vouch for its efficiency.",
+        "options": {
+            "1": "Invalidate",
+            "2": "Maintain",
+            "3": "Witness",
+            "4": "Certify"
+        }
+    },
+    {
+        "question_number": 4,
+        "question": "The following sentence has been divided into four segments. Identify the segment that\ncontains an error.\nMr. Abhilash and his family / have received / no informations / about the incident.",
+        "options": {
+            "1": "about the incident.",
+            "2": "Mr. Abhilash and his family",
+            "3": "have received",
+            "4": "no informations"
+        }
+    },
+    {
+        "question_number": 5,
+        "question": "Select the most appropriate synonym of the given word.\nToxic",
+        "options": {
+            "1": "Lethal",
+            "2": "Licit",
+            "3": "Laudatory",
+            "4": "Lanky"
+        }
+    },
+    {
+        "question_number": 6,
+        "question": "Select the word which means the same as the group of words given.\nUnit of weight for precious stones",
+        "options": {
+            "1": "Pure",
+            "2": "Accurate",
+            "3": "Reliable",
+            "4": "Carat"
+        }
+    },
+    {
+        "question_number": 7,
+        "question": "Select the option that can be used as a one-word substitute for the underlined group\nof words.\nShe is proficient in speaking many languages.",
+        "options": {
+            "1": "Heterolinguistic",
+            "2": "Bilingual",
+            "3": "Multilingual",
+            "4": "Monolithic"
+        }
+    },
+    {
+        "question_number": 8,
+        "question": "Select the option that expresses the given sentence in passive voice.\nIshika saw the tiger in the forest.",
+        "options": {
+            "1": "The tiger saw by Ishika in the forest.",
+            "2": "The tiger sees Ishika in the forest.",
+            "3": "The tiger was seen by Ishika in the forest.",
+            "4": "The tiger was seen by the forest in Ishika."
+        }
+    },
+    {
+        "question_number": 9,
+        "question": "Select the option that can be used as a one-word substitute for the given group of\nwords.\nA person who likes to argue about anything",
+        "options": {
+            "1": "Veracious",
+            "2": "Reticent",
+            "3": "Contentious",
+            "4": "Coward"
+        }
+    },
+    {
+        "question_number": 10,
+        "question": "Select the most appropriate option that can substitute the underlined segment in the\ngiven sentence.\n\u2018Spy Family\u2019 is a graphic novel that is a narrative work in which the story is conveyed\nto the reader using uninterrupted art in a traditional comics format.",
+        "options": {
+            "1": "sedimental art in a traditional",
+            "2": "longitudinal art in a traditional",
+            "3": "existential art in a traditional",
+            "4": "sequential art in a traditional"
+        }
+    },
+    {
+        "question_number": 11,
+        "question": "The following sentence has been split into four segments. Identify the segment that\ncontains a grammatical error.\nMy brother performed / extremely good / in the class test / held yesterday.",
+        "options": {
+            "1": "held yesterday",
+            "2": "extremely good",
+            "3": "in the class test",
+            "4": "My brother performed"
+        }
+    },
+    {
+        "question_number": 12,
+        "question": "Select the INCORRECTLY spelt word.",
+        "options": {
+            "1": "Bureaucracy",
+            "2": "Embarrass",
+            "3": "Connoisseur",
+            "4": "Relevent"
+        }
+    },
+    {
+        "question_number": 13,
+        "question": "Select the most appropriate synonym to replace the underlined word in the given\nsentence.\nNo altruistic act is truly sincere.",
+        "options": {
+            "1": "phenomenal",
+            "2": "phonotypical",
+            "3": "philanthropic",
+            "4": "phantasmal"
+        }
+    },
+    {
+        "question_number": 14,
+        "question": "Select the most appropriate synonym of the given word.\nInnuendo",
+        "options": {
+            "1": "Crude",
+            "2": "Prose",
+            "3": "Ragged",
+            "4": "Insinuation"
+        }
+    },
+    {
+        "question_number": 15,
+        "question": "Select the most appropriate option to fill in the blank.\nVinod had a ________ escape in the car accident.",
+        "options": {
+            "1": "comfortable",
+            "2": "full",
+            "3": "narrow",
+            "4": "wide"
+        }
+    },
+    {
+        "question_number": 16,
+        "question": "Select the option that can be used as a one-word substitute for the given phrase.\nA short interesting story about a real person or event",
+        "options": {
+            "1": "Anecdote",
+            "2": "Sketch",
+            "3": "Poem",
+            "4": "Narrative"
+        }
+    },
+    {
+        "question_number": 17,
+        "question": "Select the most appropriate synonym of the word in bold.\nWe\u2019d better watch our step and not give him any excuse to harass us further.",
+        "options": {
+            "1": "betray",
+            "2": "intimidate",
+            "3": "relish",
+            "4": "soothe"
+        }
+    },
+    {
+        "question_number": 18,
+        "question": "Select the most appropriate meaning of the given idiom.\nTo have bigger fish to fry",
+        "options": {
+            "1": "To have bigger things to take care of than the menial task at hand",
+            "2": "To take calculated risks",
+            "3": "To know different kinds of fishing techniques",
+            "4": "To have an interest in cooking"
+        }
+    },
+    {
+        "question_number": 19,
+        "question": "In the following sentence, four words are underlined out of which one word is\nmisspelt. Identify the INCORRECTLY spelt word.\nAfter the recapture (A) of Tololing and the adjacent features, evacting (B) the enemy\nfrom this well-fortified (C) position became a priority.(D)",
+        "options": {
+            "1": "B",
+            "2": "D",
+            "3": "C",
+            "4": "A"
+        }
+    },
+    {
+        "question_number": 20,
+        "question": "Select the most appropriate option to substitute the underlined segment in the given\nsentence.\nShe has been studying for two o\u2019clock .",
+        "options": {
+            "1": "study from two o\u2019clock",
+            "2": "studying since two o\u2019clock",
+            "3": "studying two o\u2019clock",
+            "4": "study for two o\u2019clock"
+        }
+    },
+    {
+        "question_number": 21,
+        "question": "Select the most appropriate option to fill in blank number 1.",
+        "options": {
+            "1": "Therefore",
+            "2": "Furthermore",
+            "3": "Moreover",
+            "4": "However"
+        }
+    },
+    {
+        "question_number": 22,
+        "question": "Select the most appropriate option to fill in blank number 2.",
+        "options": {
+            "1": "rescind",
+            "2": "foresee",
+            "3": "legalise",
+            "4": "affect"
+        }
+    },
+    {
+        "question_number": 23,
+        "question": "Select the most appropriate option to fill in blank number 3.",
+        "options": {
+            "1": "Therefore",
+            "2": "Moreover",
+            "3": "However",
+            "4": "Nevertheless"
+        }
+    },
+    {
+        "question_number": 24,
+        "question": "Select the most appropriate option to fill in blank number 4.",
+        "options": {
+            "1": "Therefore",
+            "2": "Secondly",
+            "3": "Besides",
+            "4": "Despite"
+        }
+    },
+    {
+        "question_number": 25,
+        "question": "Select the most appropriate option to fill in blank number 5.",
+        "options": {
+            "1": "Therefore",
+            "2": "However",
+            "3": "Nevertheless",
+            "4": "Moreover"
+        }
+    }
+]
