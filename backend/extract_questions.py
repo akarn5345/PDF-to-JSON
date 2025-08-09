@@ -3,7 +3,8 @@ import re
 import json
 import os
 
-pdf_path = os.path.join("..", "ssc-cgl-tier-1-paper-2024-sep-09-shift-1.pdf")
+# PDF path relative to repo root (where GitHub Actions runs)
+pdf_path = "ssc-cgl-tier-1-paper-2024-sep-09-shift-1.pdf"
 
 def clean_option_text(text):
     return text.split('\n')[0].strip()
@@ -17,6 +18,7 @@ def extract_questions(pdf_path):
             if page_text:
                 text += page_text + "\n"
 
+    # Regex pattern to capture question, options (adjust if needed)
     pattern = re.compile(
         r"Q\.(\d+)\s(.*?)\nAns\s1\.(.*?)\n2\.(.*?)\n3\.(.*?)\n4\.(.*?)(?=\nQ\.|\Z)",
         re.S
@@ -41,6 +43,9 @@ def extract_questions(pdf_path):
 
 if __name__ == "__main__":
     questions = extract_questions(pdf_path)
-    with open("questions.json", "w") as f:
-        json.dump(questions, f, indent=4)
-    print(f"Extracted {len(questions)} questions to questions.json")
+
+    # Save questions.json inside backend folder (modify if needed)
+    output_path = os.path.join("backend", "questions.json")
+    os.makedirs(os.path.dirname(output_path), exist_ok=True)
+
+    with open(output_path, "w") as f_
