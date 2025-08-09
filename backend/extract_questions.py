@@ -48,4 +48,4 @@ if __name__ == "__main__":
     output_path = os.path.join("backend", "questions.json")
     os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
-    with open(output_path, "w") as f_
+    with open(output_path, "w") as f:
