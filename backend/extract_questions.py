@@ -32,17 +32,15 @@ def extract_questions(pdf_path):
             "1": clean_option_text(opt1),
             "2": clean_option_text(opt2),
             "3": clean_option_text(opt3),
-            "4": clean_option_text(opt4) if opt4 else "1375"  # Default to correct option from image if missing
+            "4": clean_option_text(opt4) if opt4 else ""
         }
         question_obj = {
             "question_number": int(qnum),
             "question": question.strip(),
             "options": options,
         }
-        if chosen_option:
-            question_obj["correct_option"] = chosen_option
-        else:
-            question_obj["correct_option"] = "4"  # Set to 4 based on the image showing option 4 as correct
+        # Set correct_option only if chosen_option is found, otherwise leave as None
+        question_obj["correct_option"] = chosen_option if chosen_option else None
         questions.append(question_obj)
 
     return questions
