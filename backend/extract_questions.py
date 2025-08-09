@@ -18,16 +18,18 @@ def extract_questions(pdf_path):
             if page_text:
                 text += page_text + "\n"
 
-    # Updated regex pattern to better capture options and chosen option
+    # Enhanced regex pattern to handle variations in text layout
     pattern = re.compile(
-        r"Q\.(\d+)\s(.*?)\nAns\s1\.(.*?)\n2\.(.*?)\n3\.(.*?)\n4\.(.*?)(?:\n.*?(?:Status\s*:\s*Answered\nChosen Option\s*:\s*(\d+)))?",
+        r"Q\.(\d+)\s(.*?)(?=\nAns\s1\.)"  # Capture question
+        r"\nAns\s1\.(.*?)\n2\.(.*?)\n3\.(.*?)\n4\.(.*?)"  # Capture options
+        r"(?:\n.*?(?:Status\s*:\s*Answered\s*Chosen Option\s*:\s*(\d+)|Chosen Option\s*:\s*(\d+)))?",  # Capture chosen option
         re.DOTALL
     )
 
     matches = pattern.findall(text)
 
     for match in matches:
-        qnum, question, opt1, opt2, opt3, opt4, chosen_option = match
+        qnum, question, opt1, opt2, opt3, opt4, chosen_opt1, chosen_opt2 = match
         options = {
             "1": clean_option_text(opt1),
             "2": clean_option_text(opt2),
@@ -39,7 +41,8 @@ def extract_questions(pdf_path):
             "question": question.strip(),
             "options": options,
         }
-        # Set correct_option only if chosen_option is found, otherwise leave as None
+        # Determine correct_option from either captured group
+        chosen_option = chosen_opt1 or chosen_opt2
         question_obj["correct_option"] = chosen_option if chosen_option else None
         questions.append(question_obj)
 
