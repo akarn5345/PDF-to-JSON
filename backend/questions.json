@@ -6,8 +6,9 @@
             "1": "1335",
             "2": "1775",
             "3": "1575",
-            "4": "1375"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 2,
@@ -16,8 +17,9 @@
             "1": "180",
             "2": "187",
             "3": "185",
-            "4": "190"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 3,
@@ -26,8 +28,9 @@
             "1": "Z",
             "2": "T",
             "3": "V",
-            "4": "A"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 4,
@@ -36,8 +39,9 @@
             "1": "335 - 119",
             "2": "358 - 152",
             "3": "317 - 101",
-            "4": "308 - 92"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 5,
@@ -46,8 +50,9 @@
             "1": "MOBJ",
             "2": "MJOB",
             "3": "MOJB",
-            "4": "MJBO"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 6,
@@ -56,8 +61,9 @@
             "1": "Pentagon - 5 sides",
             "2": "Hexagon - 8 sides",
             "3": "Triangle - 3 sides",
-            "4": "Square - 4 sides"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 7,
@@ -66,8 +72,9 @@
             "1": "One",
             "2": "Four",
             "3": "Two",
-            "4": "Three"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 8,
@@ -76,8 +83,9 @@
             "1": "31",
             "2": "33",
             "3": "35",
-            "4": "30"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 9,
@@ -86,8 +94,9 @@
             "1": "(162, 222)",
             "2": "(153, 217)",
             "3": "(137, 211)",
-            "4": "(144, 198)"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 10,
@@ -97,7 +106,8 @@
             "2": "",
             "3": "",
             "4": ""
-        }
+        },
+        "correct_option": "2"
     },
     {
         "question_number": 11,
@@ -106,8 +116,9 @@
             "1": "QDS",
             "2": "PCR",
             "3": "QDT",
-            "4": "PCS"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 12,
@@ -116,8 +127,9 @@
             "1": "Only I follows",
             "2": "Only II follows",
             "3": "Only I and III follow",
-            "4": "Only II and III follow"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 13,
@@ -127,7 +139,8 @@
             "2": "",
             "3": "",
             "4": ""
-        }
+        },
+        "correct_option": "1"
     },
     {
         "question_number": 14,
@@ -137,7 +150,8 @@
             "2": "",
             "3": "",
             "4": ""
-        }
+        },
+        "correct_option": "2"
     },
     {
         "question_number": 15,
@@ -146,8 +160,9 @@
             "1": "ZM72",
             "2": "ZN71",
             "3": "YN73",
-            "4": "YM72"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 16,
@@ -156,8 +171,9 @@
             "1": "KPLPLQLSPK",
             "2": "PKLPQPLSKP",
             "3": "KPLPQQLPSK",
-            "4": "KPLPQLPSKP"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 17,
@@ -167,7 +183,8 @@
             "2": "",
             "3": "",
             "4": ""
-        }
+        },
+        "correct_option": "2"
     },
     {
         "question_number": 18,
@@ -176,8 +193,9 @@
             "1": "26",
             "2": "25",
             "3": "22",
-            "4": "21"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 19,
@@ -186,8 +204,9 @@
             "1": "21",
             "2": "20",
             "3": "18",
-            "4": "19"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 20,
@@ -196,8 +215,9 @@
             "1": "aa",
             "2": "kk",
             "3": "zz",
-            "4": "ff"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 21,
@@ -206,8 +226,9 @@
             "1": "Only conclusion I follows",
             "2": "Both II and III conclusion follow",
             "3": "Only conclusion III follows",
-            "4": "Both I and II conclusion follow"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 22,
@@ -216,8 +237,9 @@
             "1": "UWSV",
             "2": "UWVS",
             "3": "USWV",
-            "4": "WUSV"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 23,
@@ -226,8 +248,9 @@
             "1": "i",
             "2": "iii",
             "3": "ii",
-            "4": "iv"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 24,
@@ -236,8 +259,9 @@
             "1": "653",
             "2": "600",
             "3": "571",
-            "4": "671"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 25,
@@ -246,8 +270,9 @@
             "1": "202",
             "2": "210",
             "3": "200",
-            "4": "206"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 1,
@@ -256,8 +281,9 @@
             "1": "1973",
             "2": "1970",
             "3": "1972",
-            "4": "1985"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 2,
@@ -266,8 +292,9 @@
             "1": "Karnataka",
             "2": "Himachal Pradesh",
             "3": "Arunachal Pradesh",
-            "4": "Uttar Pradesh"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 3,
@@ -276,8 +303,9 @@
             "1": "Dadasaheb Phalke Award",
             "2": "Padma Vibhushan",
             "3": "Bharat Ratna",
-            "4": "Filmfare Lifetime Achievement Award"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 4,
@@ -286,8 +314,9 @@
             "1": "Chashtana",
             "2": "Rudradaman I",
             "3": "Rudrasimha III",
-            "4": "Maues"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 5,
@@ -296,8 +325,9 @@
             "1": "NABARD",
             "2": "Self-help Group Association",
             "3": "Microfinance and Investments Regulatory Authority",
-            "4": "Microfinance Institutions Network"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 6,
@@ -306,8 +336,9 @@
             "1": "Article 228",
             "2": "Article 227",
             "3": "Article 226",
-            "4": "Article 225"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 7,
@@ -316,8 +347,9 @@
             "1": "He shall not hold any office of profit.",
             "2": "The allowances shall not be diminished during his term of office.",
             "3": "He shall not be entitled, without payment of rent, to use his official residence.",
-            "4": "He shall not be a member of either House of the Parliament."
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 8,
@@ -326,8 +358,9 @@
             "1": "A flower with gynoecium only",
             "2": "A flower with androecium only",
             "3": "A flower with both androecium and gynoecium",
-            "4": "A flower with dithecous"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 9,
@@ -336,8 +369,9 @@
             "1": "Grammy",
             "2": "Sangita Kalanidhi",
             "3": "Oscar",
-            "4": "Sangeet Natak Akademi"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 10,
@@ -346,8 +380,9 @@
             "1": "Dharmendra Pradhan",
             "2": "Jitendra Singh",
             "3": "Ashwini Vaishnaw",
-            "4": "Ramesh Pokhriyal"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 11,
@@ -356,8 +391,9 @@
             "1": "Decomposition of sodium hydride",
             "2": "Decomposition of calcium carbonate",
             "3": "Decomposition of potassium chlorate",
-            "4": "Decomposition of dihydrogen monoxide"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 12,
@@ -366,8 +402,9 @@
             "1": "Chittaranjan Das",
             "2": "Motilal Nehru",
             "3": "Dinabandhu Mitra",
-            "4": "Sarojini Naidu"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 13,
@@ -376,8 +413,9 @@
             "1": "Jayprakash Narayan",
             "2": "JM Sengupta",
             "3": "Kunwar Singh",
-            "4": "Swami Sahajanand Saraswati"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 14,
@@ -386,8 +424,9 @@
             "1": "Deccan lava plateau",
             "2": "African plateau",
             "3": "Ethiopian plateau",
-            "4": "Katanga plateau"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 15,
@@ -396,8 +435,9 @@
             "1": "LiOH>NaOH>KOH>CsOH",
             "2": "KOH>CsOH>NaOH>LiOH",
             "3": "LiOH>KOH>CsOH>NaOH",
-            "4": "CsOH>KOH>NaOH>LiOH"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 16,
@@ -406,8 +446,9 @@
             "1": "Cell-tissue grade organisation - Jellyfish",
             "2": "Cellular grade organisation - Sycon",
             "3": "Protoplasmic grade organisation - Paramecium",
-            "4": "Tissue-organ grade organisation - Euplectella"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 17,
@@ -416,8 +457,9 @@
             "1": "Kolkata",
             "2": "Chennai",
             "3": "Mumbai",
-            "4": "New Delhi"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 18,
@@ -426,8 +468,9 @@
             "1": "Net density",
             "2": "Gross density",
             "3": "Agricultural density",
-            "4": "Physiological density"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 19,
@@ -436,8 +479,9 @@
             "1": "Pallava",
             "2": "Pandya",
             "3": "Chalukya",
-            "4": "Chola"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 20,
@@ -446,8 +490,9 @@
             "1": "Excessive foreign competition",
             "2": "Lack of skilled labour",
             "3": "Lack of consumer base",
-            "4": "Inconsistent regulatory environment"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 21,
@@ -456,8 +501,9 @@
             "1": "Bihar",
             "2": "Madhya Pradesh",
             "3": "Punjab",
-            "4": "Haryana"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 22,
@@ -466,8 +512,9 @@
             "1": "Gopal Krishna Gokhale",
             "2": "Shri Ram Bajpai",
             "3": "Atmaram Pandurang",
-            "4": "Ram Mohan Roy"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 23,
@@ -476,8 +523,9 @@
             "1": "KN Nehru",
             "2": "Pinarayi Vijayan",
             "3": "M Yedurappa",
-            "4": "MK Stalin"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 24,
@@ -486,8 +534,9 @@
             "1": "Kolkata",
             "2": "Mysore",
             "3": "Shimla",
-            "4": "Gulmarg"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 25,
@@ -496,8 +545,9 @@
             "1": "Amit Shah",
             "2": "Narendra Modi",
             "3": "Neeraj Chopra",
-            "4": "Virat Kohli"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 1,
@@ -506,8 +556,9 @@
             "1": "11.11%",
             "2": "14.94%",
             "3": "15.11%",
-            "4": "18.21%"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 2,
@@ -517,7 +568,8 @@
             "2": "",
             "3": "",
             "4": ""
-        }
+        },
+        "correct_option": "4"
     },
     {
         "question_number": 3,
@@ -526,8 +578,9 @@
             "1": "140 s",
             "2": "40 s",
             "3": "70 s",
-            "4": "20 s"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 4,
@@ -536,8 +589,9 @@
             "1": "24",
             "2": "13",
             "3": "12",
-            "4": "26"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 5,
@@ -546,8 +600,9 @@
             "1": "One side and one angle of both triangles are equal.",
             "2": "These have two equal sides and the same perimeter.",
             "3": "These have the same area and the same base.",
-            "4": "These have the same base and the same height."
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 6,
@@ -556,8 +611,9 @@
             "1": "3 minutes",
             "2": "5 minutes",
             "3": "4 minutes",
-            "4": "6 minutes"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 8,
@@ -566,8 +622,9 @@
             "1": "13",
             "2": "17",
             "3": "16",
-            "4": "18"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 10,
@@ -576,8 +633,9 @@
             "1": "13 : 11",
             "2": "4 : 11",
             "3": "11 : 15",
-            "4": "15 : 4"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 11,
@@ -586,8 +644,9 @@
             "1": "2",
             "2": "6",
             "3": "0",
-            "4": "4"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 12,
@@ -596,8 +655,9 @@
             "1": "8",
             "2": "8.4",
             "3": "7.5",
-            "4": "7.2"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 13,
@@ -606,8 +666,9 @@
             "1": "330",
             "2": "220",
             "3": "300",
-            "4": "200"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 14,
@@ -616,8 +677,9 @@
             "1": "Cannot be found",
             "2": "16 cm",
             "3": "4 cm",
-            "4": "8 cm"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 15,
@@ -626,8 +688,9 @@
             "1": "2018",
             "2": "2019",
             "3": "2020",
-            "4": "2017"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 17,
@@ -636,8 +699,9 @@
             "1": "39 cm",
             "2": "29 cm",
             "3": "35 cm",
-            "4": "25 cm"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 18,
@@ -646,8 +710,9 @@
             "1": "1 : 3",
             "2": "2 : 3",
             "3": "1 : 2",
-            "4": "3 : 4"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 20,
@@ -657,7 +722,8 @@
             "2": "",
             "3": "",
             "4": ""
-        }
+        },
+        "correct_option": "3"
     },
     {
         "question_number": 22,
@@ -666,8 +732,9 @@
             "1": "2,7",
             "2": "4,7",
             "3": "3,10",
-            "4": "1,10"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 24,
@@ -676,8 +743,9 @@
             "1": "561347",
             "2": "564914",
             "3": "558380",
-            "4": "556367"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 1,
@@ -686,8 +754,9 @@
             "1": "Additional",
             "2": "Easy",
             "3": "Deadly",
-            "4": "Jovial"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 2,
@@ -696,8 +765,9 @@
             "1": "Domnica composes tunes lovely.",
             "2": "Domnica will compose lovely tunes.",
             "3": "Domnica composes lovely tunes.",
-            "4": "Domnica composed lovely tunes."
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 3,
@@ -706,8 +776,9 @@
             "1": "Invalidate",
             "2": "Maintain",
             "3": "Witness",
-            "4": "Certify"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 4,
@@ -716,8 +787,9 @@
             "1": "about the incident.",
             "2": "Mr. Abhilash and his family",
             "3": "have received",
-            "4": "no informations"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 5,
@@ -726,8 +798,9 @@
             "1": "Lethal",
             "2": "Licit",
             "3": "Laudatory",
-            "4": "Lanky"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 6,
@@ -736,8 +809,9 @@
             "1": "Pure",
             "2": "Accurate",
             "3": "Reliable",
-            "4": "Carat"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 7,
@@ -746,8 +820,9 @@
             "1": "Heterolinguistic",
             "2": "Bilingual",
             "3": "Multilingual",
-            "4": "Monolithic"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 8,
@@ -756,8 +831,9 @@
             "1": "The tiger saw by Ishika in the forest.",
             "2": "The tiger sees Ishika in the forest.",
             "3": "The tiger was seen by Ishika in the forest.",
-            "4": "The tiger was seen by the forest in Ishika."
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 9,
@@ -766,8 +842,9 @@
             "1": "Veracious",
             "2": "Reticent",
             "3": "Contentious",
-            "4": "Coward"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 10,
@@ -776,8 +853,9 @@
             "1": "sedimental art in a traditional",
             "2": "longitudinal art in a traditional",
             "3": "existential art in a traditional",
-            "4": "sequential art in a traditional"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 11,
@@ -786,8 +864,9 @@
             "1": "held yesterday",
             "2": "extremely good",
             "3": "in the class test",
-            "4": "My brother performed"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 12,
@@ -796,8 +875,9 @@
             "1": "Bureaucracy",
             "2": "Embarrass",
             "3": "Connoisseur",
-            "4": "Relevent"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 13,
@@ -806,8 +886,9 @@
             "1": "phenomenal",
             "2": "phonotypical",
             "3": "philanthropic",
-            "4": "phantasmal"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 14,
@@ -816,8 +897,9 @@
             "1": "Crude",
             "2": "Prose",
             "3": "Ragged",
-            "4": "Insinuation"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 15,
@@ -826,8 +908,9 @@
             "1": "comfortable",
             "2": "full",
             "3": "narrow",
-            "4": "wide"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 16,
@@ -836,8 +919,9 @@
             "1": "Anecdote",
             "2": "Sketch",
             "3": "Poem",
-            "4": "Narrative"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 17,
@@ -846,8 +930,9 @@
             "1": "betray",
             "2": "intimidate",
             "3": "relish",
-            "4": "soothe"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 18,
@@ -856,8 +941,9 @@
             "1": "To have bigger things to take care of than the menial task at hand",
             "2": "To take calculated risks",
             "3": "To know different kinds of fishing techniques",
-            "4": "To have an interest in cooking"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 19,
@@ -866,8 +952,9 @@
             "1": "B",
             "2": "D",
             "3": "C",
-            "4": "A"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 20,
@@ -876,8 +963,9 @@
             "1": "study from two o\u2019clock",
             "2": "studying since two o\u2019clock",
             "3": "studying two o\u2019clock",
-            "4": "study for two o\u2019clock"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 21,
@@ -886,8 +974,9 @@
             "1": "Therefore",
             "2": "Furthermore",
             "3": "Moreover",
-            "4": "However"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 22,
@@ -896,8 +985,9 @@
             "1": "rescind",
             "2": "foresee",
             "3": "legalise",
-            "4": "affect"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 23,
@@ -906,8 +996,9 @@
             "1": "Therefore",
             "2": "Moreover",
             "3": "However",
-            "4": "Nevertheless"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 24,
@@ -916,8 +1007,9 @@
             "1": "Therefore",
             "2": "Secondly",
             "3": "Besides",
-            "4": "Despite"
-        }
+            "4": ""
+        },
+        "correct_option": null
     },
     {
         "question_number": 25,
@@ -926,7 +1018,8 @@
             "1": "Therefore",
             "2": "However",
             "3": "Nevertheless",
-            "4": "Moreover"
-        }
+            "4": ""
+        },
+        "correct_option": null
     }
 ]
