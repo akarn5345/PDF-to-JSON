@@ -32,7 +32,7 @@ def extract_questions(pdf_path):
             "1": clean_option_text(opt1),
             "2": clean_option_text(opt2),
             "3": clean_option_text(opt3),
-            "4": clean_option_text(opt4),
+            "4": clean_option_text(opt4) if opt4 else ""  # Handle missing option 4
         }
         question_obj = {
             "question_number": int(qnum),
@@ -42,7 +42,7 @@ def extract_questions(pdf_path):
         if chosen_option:
             question_obj["correct_option"] = chosen_option
         else:
-            question_obj["correct_option"] = None  # or omit this line if preferred
+            question_obj["correct_option"] = None  # Set to None if not chosen
         questions.append(question_obj)
 
     return questions
